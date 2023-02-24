@@ -1,0 +1,109 @@
+  >>>>>>>>>>>>>>>>>>>>>>>>  vim commands  <<<<<<<<<<<<<<<<<<<<
+
+  to inserting mode           >>>>>     i
+
+  to out from inserting mode  >>>>>     esc
+
+  to inserting mode in new line    >>>>>   o
+
+  to visual mode           >>>>>  v
+
+  ###############################################################
+
+  to open new file on same directory             >>>>>>    :e file.txt
+
+  to open new file on different directory         >>>>>  :e directory/file.txt
+
+  to browse the existing files to choose file        >>>>>> :e .
+
+  to save the file                                   >>>>>>  :w
+
+  to save the file with new name                     >>>>>> :w fileName
+
+  to save and quit                              >>>>>> :wq
+
+  to quit without save                          >>>>>> :q!
+
+ ##################################################################
+
+ to open the file in browser like firefox  >>>>>>>>    :!firefox filename
+
+ to mmove up     >>>>>>  k
+
+ to move down    >>>>>>  j
+
+ to move left    >>>>>>  h
+
+ to move right  >>>>>>>  l
+ 
+ to move 20lines up   >>>>>>>  20k
+
+ to move 20lines down  >>>>>>  20j
+
+ to move 20char right  >>>>>>>  20l
+
+ to move 20char left  >>>>>>>  20h
+
+ to move to the start of file   >>>>>>  gg
+
+ to move to the end of file     >>>>>>  G
+
+ to move to the start of line   >>>>>>  o
+
+ to move to the end of line    >>>>>>>  s
+
+ to move to a specific line      >>>>>>>  15gg
+
+ to undo an edit             >>>>>>>>  u
+
+ to undo undo          >>>>>>>>>>  ctrl + r
+
+ to copy line         >>>>>>>> yy
+
+ to delete line       >>>>>>>>> dd
+
+ to copy count of lines  >>>>>>>>>>  4yy
+
+ to delete count of lines  >>>>>>>>>>  4dd
+
+ to copy word     >>>>>>>>>>>  put pointer at the beginning of word and click yw
+
+ to delete word     >>>>>>>>>>>  put pointer at the beginning of word 
+  and click dw
+
+ to paste    >>>>>>>>>>    p
+
+ to select a part of the text  >>>>>>> ctrl + v and move to select 
+
+ #########################################################################
+
+ to search   >>>>>>>>>>>  /search_query
+
+ to split the screen horizontally  >>>>>>>>> :sp
+
+ to split the screen veritcally    >>>>>>>>>  :vs
+
+ to move between tabs   >>>>>>>>>  ctrl + ww
+
+
+ to open nums of files in nums of tabs >>>>>>>>>  vim -p file1 file2 file3
+
+ to create new tab   >>>>>>>>>  :tabnew
+
+ to close a tab     >>>>>>>>>>>  :tabc
+
+ to move to next tab  >>>>>>>> :tabn
+
+ to move to previous tab  >>>>>>>> :tabp
+
+ to move to the third tab >>>>>>>>> :tabn3
+
+ to move to the last tab  >>>>>>>>> :tabl
+
+ to move to the first tab >>>>>>>>> :tabr
+
+ to display tabs >>>>>>>>>>>>> :tabs
+
+ to display numbers >>>>>>> :set number
+
+ 
